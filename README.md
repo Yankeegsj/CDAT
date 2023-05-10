@@ -29,6 +29,8 @@ download MAE_92.3_SHA model from [link](https://1drv.ms/u/s!AuOdja6S-tY7gtRYZEga
 ```
 - CDAT
   - code
+    -pre_models
+      -SHA_92.3.pth
     - test.py
     - ...
   - data
