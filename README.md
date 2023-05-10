@@ -23,7 +23,7 @@ pip install cached-property==1.5.2 h5py==3.1.0
 
 ## 3. Model download
 
-download MAE_92.3_SHA model from [link](https://1drv.ms/u/s!AuOdja6S-tY7gtRYZEgaElVf2AMd4Q?e=8obBlj) 
+download MAE_92.3_SHA model from [link](https://1drv.ms/u/s!AuOdja6S-tY7g5xowvDG5TFJRO2kyg?e=x2kDWO) 
 
 ## 3. File system
 ```
