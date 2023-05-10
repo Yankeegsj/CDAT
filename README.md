@@ -9,9 +9,9 @@ conda create --name CDAT
 source activate CDAT
 conda install pip
 conda install python==3.6.6
-pip install torch-1.0.0-cp36-cp36m-linux_x86_64.whl
+pip install torch==1.10.0
 pip install numpy==1.19.2 six==1.15.0 pillow==8.0.1
-pip install torchvision==0.2.0
+pip install torchvision==0.11.0
 pip install pandas==1.1.3 python-dateutil==2.8.1 pytz==2020.1
 pip install scipy==1.5.3 opencv-python==4.4.0.44
 pip install opencv-python==4.4.0.44 cycler==0.10.0 kiwisolver==1.2.0 matplotlib==3.3.2 pyparsing==2.4.7
